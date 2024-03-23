@@ -1,0 +1,51 @@
+git init
+git remote 
+git acp
+git branch a
+git ch a
+git acp
+git ch master
+git acp
+git branch B
+git ch B
+git acp
+git ch master
+git acp
+git ch a
+git acp
+git ch b
+git acp
+git ch master
+git branch c
+git ch c
+git acp
+git ch master
+git acp
+git ch b
+git branch e
+git ch b
+git acp origin E
+git ch a
+git acp
+git ch c
+git merge b 
+git acp
+git ch master
+git acp
+git ch c
+git merge a
+git ch b 
+git acp
+git ch c
+git acp
+git ch master
+git acp
+git ch c
+git merge master
+git ch a
+git acp
+git ch e
+git acp
+
+
+
