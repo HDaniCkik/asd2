@@ -46,6 +46,9 @@ git ch a
 git acp
 git ch e
 git acp
-
+git ch C
+git merge A (both change)
+git ch c
+git acp
 
 
